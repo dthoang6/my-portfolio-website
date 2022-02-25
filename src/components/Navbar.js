@@ -27,7 +27,7 @@ export default function Navbar() {
             Github
           </a>
           <a
-            href="https://www.linkedin.com/in/dthoang6/"
+            href="https://www.linkedin.com/in/tomhoangdev/"
             className="mr-5 hover:text-white"
           >
             LinkedIn
