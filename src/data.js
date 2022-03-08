@@ -53,7 +53,7 @@ export const works = [
     subtitle: "Wordpress, Online Course, PHP",
     description: "Build a Educational Website with online Courses.",
     image: "./lamgiau.png",
-    link: "https://lamgiaukieumy.com",
+    link: "https://lamgiaukieumy.com/courses/",
   },
   {
     title: "Restaurant Website",

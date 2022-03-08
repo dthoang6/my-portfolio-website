@@ -53,12 +53,12 @@ export default function Contact() {
                 EMAIL
               </h2>
               <a className="text-indigo-400 leading-relaxed">
-                dthoang6@gmail.com
+                tomhoangweb@gmail.com
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE
               </h2>
-              <p className="leading-relaxed">714-548-5346</p>
+              <p className="leading-relaxed">657-206-1980</p>
             </div>
           </div>
         </div>
